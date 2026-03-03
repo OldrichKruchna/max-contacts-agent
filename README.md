@@ -37,7 +37,7 @@ The agent runs an agentic tool-use loop powered by **Claude** (Anthropic API). I
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 22+
 - An [Anthropic API key](https://console.anthropic.com/)
 - A valid MAX platform token
 
